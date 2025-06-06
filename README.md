@@ -184,6 +184,12 @@ COMMIT;
 * [MySQL Official Documentation](https://dev.mysql.com/doc/)
 * [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 
-## 📞 Contact
+---
 
-For any issues or contributions, please open an issue or submit a pull request.
+## 📩 Contact
+
+For suggestions, collaborations, or academic use, contact:  
+**Mohammad Hasibul Hasan**  
+Email: `mohammadhasibulhasanpga4149@gmail.com`  
+Medium: [Smart Zone](https://medium.com/@hasibulhimu49)  
+YouTube: [HelloSmartZone](https://www.youtube.com/@HelloSmartZone)
